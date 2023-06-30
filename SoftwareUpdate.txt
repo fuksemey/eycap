@@ -1,1 +1,1 @@
-Reverse IoU threshold for NMS docs descriptions (#9151)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
