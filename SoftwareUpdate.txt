@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
